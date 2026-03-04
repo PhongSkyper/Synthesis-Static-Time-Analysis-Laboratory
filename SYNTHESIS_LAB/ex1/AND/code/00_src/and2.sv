@@ -1,0 +1,7 @@
+module and2 (
+input logic A,
+input logic B,
+output logic Y
+);
+assign Y = A & B;
+endmodule
