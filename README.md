@@ -27,12 +27,4 @@ Instead of raw execution scripts, this repository focuses on **comprehensive doc
 * **Low-Power Impact (Clock Gating):** Implemented clock gating on a 4-bit ALU. The analysis revealed a critical limitation in small-scale designs: the hardware overhead (Flip-flops increased from 4 to 20) caused a 111% increase in power consumption and systematic timing violations (slack = -0.404 ns). 
 
 ---
-
-## 📂 Repository Structure
-* `Report_Lab2_Synthesis_StandardCells.pdf`: Comprehensive lab report detailing the synthesis setup, standard cell mapping, and SDF simulation.
-* `Report_Lab3_STA_TimingClosure.pdf`: In-depth analysis of timing constraints, area-delay trade-offs, and clock gating impacts.
-* `/images`: Visual proofs including schematic views, terminal outputs, and timing report snapshots extracted from the experiments.
-* `synthesis_flow_sample.tcl`: A representative Tcl script demonstrating the core Cadence Genus synthesis commands and constraints used to generate the results in the reports.
-
----
 *Note: This portfolio is based on projects completed within the Introduction to IC Design coursework at Ho Chi Minh City University of Technology (HCMUT).*
