@@ -1,4 +1,4 @@
-# ASIC Logic Synthesis & Static Timing Analysis (STA)
+# ASIC Logic Synthesis & Static Timing Analysis (STA) LAB
 
 ## 📌 Overview
 This repository serves as a technical portfolio demonstrating the **ASIC Logic Synthesis flow** and **Static Timing Analysis (STA)** methodology. Using **Cadence Genus** and standard cell libraries (45nm GPDK), these projects bridge the gap between behavioral RTL design and physical gate-level implementation. 
